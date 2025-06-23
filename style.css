@@ -27,18 +27,21 @@ body {
             text-align: center;
             }
 
-            h1 {
-              background-color: red;
-                color: white;
-                  padding: 20px;
-                    margin: 0;
-                    }
-
-                    p {
-                      font-size: 18px;
-                        color: #333;
-                          margin-top: 20px;
-                          }
+h1 {
+  background-color: red;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+h1:hover {
+    background-color: darkred;
+      cursor: pointer;
+}
+p {
+  font-size: 18px;
+  color: #333;
+  margin-top: 20px;
+}
 a {
     font-size: large;
     padding: 10px;
