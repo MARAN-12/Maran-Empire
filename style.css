@@ -6,6 +6,7 @@ header {
     background-color: red;
 }
 nav {
+    padding: 30px;
     color: gold;
     background-color:black;
 }
@@ -15,4 +16,7 @@ body {
 }
 h1 {
     font-size: large;
+}
+a {
+    padding: 10px;
 }
