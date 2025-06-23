@@ -20,12 +20,25 @@ nav a:hover {
   color: red;
 }
 body {
-    color: black;
-    background-color: whitesmoke;
-}
-h1 {
-    font-size: large;
-}
+    background-color: #f4f4f4;
+      font-family: Arial, sans-serif;
+        margin: 0;
+          padding: 0;
+            text-align: center;
+            }
+
+            h1 {
+              background-color: red;
+                color: white;
+                  padding: 20px;
+                    margin: 0;
+                    }
+
+                    p {
+                      font-size: 18px;
+                        color: #333;
+                          margin-top: 20px;
+                          }
 a {
     font-size: large;
     padding: 10px;
