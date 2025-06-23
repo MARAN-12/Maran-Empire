@@ -6,9 +6,18 @@ header {
     background-color: red;
 }
 nav {
-    padding: 30px;
-    color: gold;
-    background-color:black;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: yellow;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  color: red;
 }
 body {
     color: black;
