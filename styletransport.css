@@ -5,12 +5,16 @@ body {
     background-color: #d4af37;
 }
 nav {
-    background-color: #d4af37;
+    background-color: #000000;
+    color: #d4af37;
 }
 nav:hover {
     color: #c1121f;
 }
-
+h1 {
+    background-color: #c1121f;
+    color: #c0c0c0;
+}
 h3 {
     background-color: #c0c0c0;
     text-align: center;
