@@ -19,7 +19,7 @@ nav {
     text-align: center;
 }
 nav a {
-       color: #d4af37;
+       color: gold;
        text-decoration: none;
        margin: 0 15px;
         font-weight: bold;
@@ -42,7 +42,7 @@ h1 {
         margin: 0;
 }
 h1:hover {
-        background-color: #d4af37;
+        background-color: gold;
         cursor: pointer;
 }
 p {
@@ -53,7 +53,7 @@ p {
 a {                                         
   font-size: large;
   padding: 10px;                                             
-  color: #d4af37;
+  color: gold;
 }
                                                                                 
 .navbar a {
