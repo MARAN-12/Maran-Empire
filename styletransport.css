@@ -1,0 +1,17 @@
+header {
+    background-color: #c1121f;
+}
+body {
+    background-color: #d4af37;
+}
+nav {
+    background-color: #d4af37;
+}
+nav:hover {
+    color: #c1121f;
+}
+
+h3 {
+    background-color: #c0c0c0;
+    text-align: center;
+}
