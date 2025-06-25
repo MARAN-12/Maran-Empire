@@ -1,6 +1,9 @@
 h3 {
     background-color: #c0c0c0;
     text-align: center;
+    border: hidden;
+    border-radius: 20px;
+    width: 40px;
 }
 header {
         padding: 50px;
