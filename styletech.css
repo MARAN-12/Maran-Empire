@@ -6,7 +6,7 @@
 
 body {
         font-family: 'poppins', sans-serif;
-        background-color: #000;
+        background-color: #111;
         color: #fff;
 }
 
@@ -14,9 +14,12 @@ header {
         background-color: #111;
         padding: 20px;
         text-align: center;
+        color: #ffd700;
+        font-family: 'Times New Roman', Times, serif;
 }
 nav {
         display: flex;
+        border-radius: 10px;
         flex-wrap: wrap;
         justify-content: center;
         gap: 20px;
@@ -31,13 +34,16 @@ nav a {
 }
 
 nav a:hover {
-        color: #ff3b3b;
+        color: red;
 }
 
 .intro {
         background-color: #c1121f;
         text-align: center;
         padding: 50px 10px;
+        border-radius: 10px;
+        width: 500px;
+        margin: auto;
 }
 .intro h1 {
         font-size: 3em;
@@ -61,6 +67,8 @@ nav a:hover {
 .details p {
     font-size: 1.2em;
     margin-top: 10px;
+    max-width: 800px;
+    margin: auto;
 }
 footer {
         background-color: #000;
@@ -68,10 +76,4 @@ footer {
         color: #888;
         padding: 15px;
         font-size: 0.9em;
-}
-
-@media (max-width: 600px) {
-        .hero h1 {
-                font-size: 2em;
-        }
 }
