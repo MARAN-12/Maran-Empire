@@ -6,18 +6,22 @@ header {
     background-color: red;
 }
 nav {
-  background-color: black;
-  padding: 10px;
-  text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 10px 0;
+        background-color: #000;
 }
 nav a {
-  color: yellow;
-  text-decoration: none;
-  margin: 0 15px;
-  font-weight: bold;
+        color: #ffd700;
+        text-decoration: none;
+        font-weight: 600;
+        transition: color 0.3s ease;
 }
+
 nav a:hover {
-  color: red;
+        color: #ff3b3b;
 }
 body {
     background-color: #f4f4f4;
