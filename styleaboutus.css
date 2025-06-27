@@ -45,8 +45,9 @@ header h1 {
 }
 .head {
   color: #ffd700;
+  margin: auto;
   margin-top: 40px;
-  max-width: 85%;
+  max-width: 85%;;
 }
 footer {
   background-color: black;
