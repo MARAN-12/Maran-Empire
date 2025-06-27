@@ -32,7 +32,7 @@ header {
   background-color: #c1121c;
   padding: 40px;
   border-radius: 10px;
-  width: 500px;
+  max-width: 85%;
   margin: auto;
   margin-top: 40px;
 }
@@ -48,7 +48,7 @@ header p {
 }
 .intro {
   margin: auto;
-  width: 500px;
+  width: 75%
 }
 .head {
   color: #ffd700;
