@@ -33,7 +33,7 @@ header {
   border-radius: 10px;
   margin: auto;
   margin-top: 30px;
-  max-width: 55%;
+  max-width: 85%;
 }
 header h1 {
   font-size: 40px;
@@ -41,13 +41,13 @@ header h1 {
 }
 .intro {
   margin: auto;
-  max-width: 85%;
+  max-width: 75%;
 }
 .head {
   color: #ffd700;
   margin: auto;
   margin-top: 40px;
-  max-width: 85%;;
+  max-width: 75%;;
 }
 footer {
   background-color: black;
