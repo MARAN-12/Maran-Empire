@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .intro {
-        background-color: #c1121f;
+        background-color: #d40000;
         text-align: center;
         padding: 50px 10px;
         border-radius: 10px;
@@ -46,6 +46,7 @@ nav a:hover {
         margin: auto;
 }
 .intro h1 {
+        font-family: 'Times New Roman', Times, serif;
         font-size: 3em;
         color: #fff;
 }

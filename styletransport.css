@@ -29,7 +29,7 @@ nav {
 nav a {
         color: #ffd700;
         text-decoration: none;
-        font-weight: 600;
+        font-weight: 700;
         transition: color 0.3s ease;
 }
 
@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .intro {
-        background-color: #c1121f;
+        background-color: #d40000;
         text-align: center;
         padding: 50px 10px;
         border-radius: 10px;
