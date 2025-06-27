@@ -17,7 +17,6 @@ nav {
   justify-content: center;
   background-color: black;
   padding: 10px 0px;
-  margin: 0;
 }
 nav a {
   color: #ffd700;
@@ -32,9 +31,9 @@ header {
   background-color: #c1121c;
   padding: 40px;
   border-radius: 10px;
-  width: 500px;
   margin: auto;
   margin-top: 30px;
+  max-width: 55%;
 }
 header h1 {
   font-size: 40px;
@@ -42,11 +41,12 @@ header h1 {
 }
 .intro {
   margin: auto;
-  width: 500px;
+  max-width: 85%;
 }
 .head {
   color: #ffd700;
   margin-top: 40px;
+  max-width: 85%;
 }
 footer {
   background-color: black;
