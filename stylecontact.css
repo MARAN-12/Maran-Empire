@@ -36,7 +36,16 @@ nav a {
 nav a:hover {
         color: red;
 }
-
+button {
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #ffd700;
+}
+button:hover {
+  background-color: #d40000;
+  color: #fff;
+}
 .intro {
         background-color: #d40000;
         text-align: center;
